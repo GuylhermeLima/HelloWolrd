@@ -1,4 +1,2 @@
 # HelloWolrd
-A Hello world program
-
-print "Hello World!" in terminal!
+A Hello world program to print "Hello World!" in terminal!
